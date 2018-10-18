@@ -1,2 +1,3 @@
 # carGame
-A basic car game using pygame
+A basic car game in python using pygame 
+
